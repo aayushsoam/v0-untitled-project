@@ -1,4 +1,4 @@
-const API_KEY = "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"
+const API_KEY = ""
 const API_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 export async function generateMixtralResponse(prompt: string): Promise<string> {
