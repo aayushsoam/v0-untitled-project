@@ -1,5 +1,5 @@
 const API_URL = "https://models.inference.ai.azure.com/chat/completions"
-const API_KEY = "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"
+const API_KEY = ""
 
 // Type definitions for message content
 type MessageContent = {
