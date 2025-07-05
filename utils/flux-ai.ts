@@ -1,5 +1,5 @@
 const HUGGINGFACE_API_URL = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
-const HUGGINGFACE_TOKEN = "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"
+const HUGGINGFACE_TOKEN = ""
 
 export async function generateFluxImage(prompt: string): Promise<string> {
   try {
